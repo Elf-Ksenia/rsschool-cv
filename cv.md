@@ -7,8 +7,18 @@ Projects. Now searching for a good strong team for growing the professional leve
 Together.
 
 ## Skills
-HTML5, CSS3, Sass (Syntactically Awesome Style Sheets), SCSS (Sassy Cascading Style Sheets), JavaScript, JQuery,
-Git, Bootstrap, WordPress, Notion, Figma, Adobe Photoshop
+- HTML5
+- CSS3
+- Sass
+- SCSS
+- JavaScript
+- JQuery
+- Git
+- Bootstrap
+- WordPress
+- Notion
+- Figma
+- Adobe Photoshop
 
 ## Experience
 1. Weblanser
