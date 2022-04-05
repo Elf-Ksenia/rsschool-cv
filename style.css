@@ -81,5 +81,7 @@
     line-height: 2;
     font-size: 1.2em;
 }
-
+.image {
+    max-width: 400px;
+}
 
